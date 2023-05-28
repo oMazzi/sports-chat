@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sports-chat/static/css/main.70eeef45.css",
-    "main.js": "/sports-chat/static/js/main.6d3b1058.js",
+    "main.js": "/sports-chat/static/js/main.74c5ee57.js",
     "static/media/Component-2.svg": "/sports-chat/static/media/Component-2.b6f6d2aa62d2d162693d918fd7421b23.svg",
     "index.html": "/sports-chat/index.html",
     "main.70eeef45.css.map": "/sports-chat/static/css/main.70eeef45.css.map",
-    "main.6d3b1058.js.map": "/sports-chat/static/js/main.6d3b1058.js.map"
+    "main.74c5ee57.js.map": "/sports-chat/static/js/main.74c5ee57.js.map"
   },
   "entrypoints": [
     "static/css/main.70eeef45.css",
-    "static/js/main.6d3b1058.js"
+    "static/js/main.74c5ee57.js"
   ]
 }
